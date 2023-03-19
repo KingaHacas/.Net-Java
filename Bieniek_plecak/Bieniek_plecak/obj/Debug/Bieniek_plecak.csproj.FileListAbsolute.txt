@@ -1,0 +1,7 @@
+C:\Users\szymo\Desktop\plecak_Bieniek\Bieniek_plecak\Bieniek_plecak\bin\Debug\Bieniek_plecak.exe.config
+C:\Users\szymo\Desktop\plecak_Bieniek\Bieniek_plecak\Bieniek_plecak\bin\Debug\Bieniek_plecak.exe
+C:\Users\szymo\Desktop\plecak_Bieniek\Bieniek_plecak\Bieniek_plecak\bin\Debug\Bieniek_plecak.pdb
+C:\Users\szymo\Desktop\plecak_Bieniek\Bieniek_plecak\Bieniek_plecak\obj\Debug\Bieniek_plecak.csproj.AssemblyReference.cache
+C:\Users\szymo\Desktop\plecak_Bieniek\Bieniek_plecak\Bieniek_plecak\obj\Debug\Bieniek_plecak.csproj.CoreCompileInputs.cache
+C:\Users\szymo\Desktop\plecak_Bieniek\Bieniek_plecak\Bieniek_plecak\obj\Debug\Bieniek_plecak.exe
+C:\Users\szymo\Desktop\plecak_Bieniek\Bieniek_plecak\Bieniek_plecak\obj\Debug\Bieniek_plecak.pdb
