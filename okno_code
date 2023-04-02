@@ -1,0 +1,50 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Windows.Markup;
+using Bacpack;
+using Programs; 
+
+
+
+namespace okno4
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+            textBox1.ReadOnly = true; //bo textBox1 nie chcemy edytować 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int seed = int.Parse(textBoxSeed.Text); 
+            //dodać funkcja generujaca elementy + referencja klasy
+            string text = ""; //pomocnicza zmienna tekstowa 
+            foreach (var v in values) //v bendzie przyjmować kolejne wartosci  
+            {
+                text += v.ToString() + " "; //doklejanie do zmiennej tekstowej te wartosci 
+            }
+            textBox1.Text = text;  //wpisywanie do textBox
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+            //tutaj nic
+        }
+
+        private void textBoxSeed(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
